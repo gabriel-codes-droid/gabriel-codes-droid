@@ -9,13 +9,19 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/gabriel-codes-droid">
-    <img src="https://img.shields.io/github/followers/gabriel-codes-droid?label=Followers&style=for-the-badge&color=ff9800&labelColor=111111"/>
-  </a>
 
-  <img src="https://img.shields.io/github/stars/gabriel-codes-droid?style=for-the-badge&color=ffd54f&labelColor=111111"/>
+<a href="https://github.com/gabriel-codes-droid?tab=followers">
+<img src="https://img.shields.io/github/followers/gabriel-codes-droid?style=for-the-badge&color=ff9800&labelColor=111111"/>
+</a>
 
-  <img src="https://komarev.com/ghpvc/?username=gabriel-codes-droid&style=for-the-badge&color=ff6f00"/>
+<img src="https://komarev.com/ghpvc/?username=gabriel-codes-droid&style=for-the-badge&color=ff6f00"/>
+
+<img src="https://img.shields.io/badge/Pull%20Shark-GitHub-blue?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/Quickdraw-GitHub-orange?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/Pair%20Extraordinaire-GitHub-purple?style=for-the-badge&logo=github"/>
+
 </p>
 
 ---
@@ -27,10 +33,11 @@ const gabriel = {
     username: "gabriel-codes-droid",
     location: "Rwanda",
     role: "Full Stack Developer",
+
     focus: [
         "Frontend Development",
         "Backend Development",
-        "Game Development"
+        "Game Development",
         "Creative UI/UX",
         "Full Stack Applications"
     ]
@@ -52,6 +59,7 @@ const gabriel = {
 <img src="https://img.shields.io/badge/Node.js-00c853?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-00e5ff?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=white"/>
+
 </div>
 
 ---
@@ -75,6 +83,7 @@ const gabriel = {
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabriel-codes-droid&theme=tokyonight"/>
 
 </div>
+
 ---
 
 # 📈 Contribution Graph
@@ -86,10 +95,6 @@ const gabriel = {
 </div>
 
 ---
-
-
-
-
 
 <div align="center">
 
