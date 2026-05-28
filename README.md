@@ -13,22 +13,55 @@
 
 </div>
 
----
-
 # 🏆 Achievements 
 
 <div align="center">
-
-<a href="https://github.com/achievements/pull-shark">
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="85" style="margin: 10px;"/>
-</a>
-<a href="https://github.com/achievements/quickdraw">
-<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="85" style="margin: 10px;"/>
-</a>
-<a href="https://github.com/achievements/pair-extraordinaire">
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="85" style="margin: 10px;"/>
-</a>
-
+  <table border="0">
+    <tr>
+      <td align="center" width="150">
+        <a href="https://github.com/achievements/pull-shark">
+          <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="70"/>
+        </a>
+      </td>
+      <td align="center" width="150">
+        <a href="https://github.com/achievements/quickdraw">
+          <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="70"/>
+        </a>
+      </td>
+      <td align="center" width="150">
+        <a href="https://github.com">
+          <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="70"/>
+        </a>
+      </td>
+         <td align="center" width="150">
+        <a href="https://github.com/achievements/galaxy-brain">
+          <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="70"/>
+        </a>
+      </td>
+         <td align="center" width="150">
+        <a href="https://github.com/achievements/starstruck">
+          <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="70"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com"><b>Pull Shark</b></a>
+      </td>
+      <td align="center">
+        <a href="https://github.com"><b>Quickdraw</b></a>
+      </td>
+      <td align="center">
+        <a href="https://github.com"><b>Pair Extraordinaire</b></a>
+      </td>
+        <td align="center">
+        <a href="https://github.com"><b>Galaxy Brain</b></a>
+      </td>
+      <td align="center">
+        <a href="https://github.com"><b>Star Struck</b></a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
