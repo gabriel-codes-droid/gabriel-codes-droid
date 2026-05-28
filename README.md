@@ -4,25 +4,32 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=1000&color=FFB300&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Creating+Digital+Experiences"/>
 
-</div>
-
 <br>
-
-<p align="center">
 
 <a href="https://github.com/gabriel-codes-droid?tab=followers">
 <img src="https://img.shields.io/github/followers/gabriel-codes-droid?style=for-the-badge&color=ff9800&labelColor=111111"/>
 </a>
-
 <img src="https://komarev.com/ghpvc/?username=gabriel-codes-droid&style=for-the-badge&color=ff6f00"/>
 
-<img src="https://img.shields.io/badge/Pull%20Shark-GitHub-blue?style=for-the-badge&logo=github"/>
+</div>
 
-<img src="https://img.shields.io/badge/Quickdraw-GitHub-orange?style=for-the-badge&logo=github"/>
+---
 
-<img src="https://img.shields.io/badge/Pair%20Extraordinaire-GitHub-purple?style=for-the-badge&logo=github"/>
+# 🏆 Achievements 
 
-</p>
+<div align="center">
+
+<a href="https://github.com/achievements/pull-shark">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="85" style="margin: 10px;"/>
+</a>
+<a href="https://github.com/achievements/quickdraw">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="85" style="margin: 10px;"/>
+</a>
+<a href="https://github.com/achievements/pair-extraordinaire">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="85" style="margin: 10px;"/>
+</a>
+
+</div>
 
 ---
 
@@ -41,7 +48,6 @@ const gabriel = {
         "Creative UI/UX",
         "Full Stack Applications"
     ]
-
 };
 ```
 
@@ -69,7 +75,6 @@ const gabriel = {
 <div align="center">
 
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabriel-codes-droid&theme=tokyonight"/>
-
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gabriel-codes-droid&theme=tokyonight&utcOffset=2"/>
 
 </div>
@@ -79,7 +84,6 @@ const gabriel = {
 <div align="center">
 
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabriel-codes-droid&theme=tokyonight"/>
-
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabriel-codes-droid&theme=tokyonight"/>
 
 </div>
