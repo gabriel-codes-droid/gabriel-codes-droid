@@ -51,7 +51,7 @@ const gabriel = {
 <img src="https://img.shields.io/badge/Firebase-ff9100?style=for-the-badge&logo=firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-00c853?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-00e5ff?style=for-the-badge&logo=react&logoColor=black"/>
-
+<img src="https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=white"/>
 </div>
 
 ---
